@@ -1,0 +1,5 @@
+export const thumbsUpGif =
+  'https://s3-alpha-sig.figma.com/img/cda0/ce7c/9fc0298f1a47d3a7a045c1311202ac2c?Expires=1701648000&Signature=IBRazcTy6nMsTXTPZIY0tQ3CyH5NqIl278AW~xBuqpikEZYRw7vU57cQ1c4NrGd00ZWb5Xh2grwCZVSoAr0gGnIho9EiJH4DFUNkMV05Q4pDeo7HxietVyoq4ti5EhyFPV~729V7j22CK-pMC7gX1OdQSKgLi5nY-8Eihf6lwp3mDkm5hSDOhvZUYgH06W-3rKd3agfFUrH3tqKGkK~D7vA6aNAsQxjQ-eFWw7jaJbKw2mj4aO6dTVYa6K8G-2CWq-oeL-CbpyqY9~4479hoR2NGSjuMp2~QgwLLJTdF~2zzwbjroyLw8CJNVKPuMawqV3k3d3PopFfu8WsY2ZfHgA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4';
+
+export const thumbsDownGif =
+  'https://s3-alpha-sig.figma.com/img/0b81/5c65/ba4ffcacaa979db7ee513dc004374c7f?Expires=1701648000&Signature=Mv3lkhBJZ04ey5lS8UNLKZk6orNiqz3q6FqLgplOWaTMjSBdGcIBwwow0MEiOCiyqVpAA87iaiaX6cpJI7ohFhh7o2406pq0E593qJPqRveM-jvtuEeyxrNvAgKSP50ajX8NuGWUdpMDkx4yL1o3yxdvrH58ezU-0XUNrkyjAdFv~AzBdOlxgj0FqBNpJ5i3qr08Wox4FQW33dioJ8qWc3HF3t4kEr8fO59O-~ad-ppbs-KA9nALig9mVWhuyT18NdeYaqT50t3t9vAmbGR7Nc-1c0J5Nnhbnp~ViUtKaHblXs-jrOTJWYi0nLJ-FZpZxu8JtuM-gO-yf-IEWVl-oA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4';
